@@ -38,7 +38,7 @@
     "d3": "^5.16.0",
     "echarts": "^4.0.2",
     "eva-icons": "^1.1.0",
-    "html-to-image": "^1.6.2",
+    "html-to-image": "^1.11.11",
     "html2canvas": "^1.0.0-rc.7",
     "intl": "1.2.5",
     "ionicons": "2.0.1",
